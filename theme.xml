@@ -82,7 +82,7 @@
             <fontSize>0.05</fontSize>
             <rotation>0</rotation>
             <pos>0.975 0.065</pos>
-            <size>0.05 0.075</size>
+            <size>0.075 0.075</size>
             <origin>1 0</origin>
             <fontPath>${sysFont2}</fontPath>
             <horizontalAlignment>right</horizontalAlignment>
