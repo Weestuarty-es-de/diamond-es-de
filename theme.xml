@@ -244,7 +244,7 @@
 
     <view name="gamelist">
     <systemstatus name="first">
-        <pos>0.975 0.025</pos>
+        <pos>0.975 0.05</pos>
         <height>0.0275</height>
         <origin>1 0</origin>
         <color>${fontColor}</color>
@@ -258,7 +258,7 @@
         <clock name="clock">
             <fontSize>0.05</fontSize>
             <rotation>0</rotation>
-            <pos>0.975 0.04</pos>
+            <pos>0.975 0.065</pos>
             <size>0.075 0.075</size>
             <origin>1 0</origin>
             <fontPath>${sysFont1}</fontPath>
@@ -269,7 +269,7 @@
         <clock name="clock2">
             <fontSize>0.05</fontSize>
             <rotation>0</rotation>
-            <pos>0.975 0.04</pos>
+            <pos>0.975 0.065</pos>
             <size>0.075 0.075</size>
             <origin>1 0</origin>
             <fontPath>${sysFont2}</fontPath>
