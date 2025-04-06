@@ -189,6 +189,7 @@
             <pos>0.95 0.965</pos>
             <origin>1 0.5</origin>
             <size>0.25 0.06</size>
+            <stationary>withinView</stationary>
             <systemdata>gamecount</systemdata>
             <defaultValue>:space:</defaultValue>
             <fontPath>${helpFont}</fontPath>
